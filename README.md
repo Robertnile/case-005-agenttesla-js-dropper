@@ -42,7 +42,7 @@ A dedicated, isolated analysis environment was configured to prevent accidental 
 - Clean snapshot allows instant rollback to a safe state if needed
 - Isolated transfer method avoids exposing the host file system to the VM
 
-**Python HTTP server started on Windows host to serve sample over host-only network:**
+**Python HTTP server started on Windows host to send sample over host-only network:**
 
 ![Python HTTP Server Transfer](screenshots/02_python_http_server_transfer.png)
 
