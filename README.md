@@ -3,6 +3,7 @@
 ![Tools](https://img.shields.io/badge/Tools-REMnux%20%7C%20Hybrid%20Analysis%20%7C%20VirusTotal-blue)
 ![Platform](https://img.shields.io/badge/Platform-VirtualBox-orange)
 ![MITRE ATT&CK](https://img.shields.io/badge/MITRE%20ATT%26CK-Mapped-red)
+
 **Case ID:** CASE-005  
 **Date:** 2026-07-13  
 **Analyst:** Nwodu Robert  
