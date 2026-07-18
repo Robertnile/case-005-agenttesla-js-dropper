@@ -486,6 +486,8 @@ Phishing Email
 | VirusTotal | Multi-engine detection and behavior analysis (CAPE, Yomi Hunter, Zenbox) |
 | MalwareBazaar | Sample acquisition |
 
+[Full Technical Report (PDF)](CASE-005_AgentTesla_Analysis_Report.pdf)
+
 ---
 
 *Report prepared as part of home lab portfolio — CASE-005*  
